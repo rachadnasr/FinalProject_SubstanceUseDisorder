@@ -11,9 +11,9 @@ The Patient Characteristics Survey (PCS) 2022 is a dataset published by the New 
 
 ## Steps Followed 
 
-1-	Trello planification of the different steps needed to complete the project
-2-	Export the dataset as a csv file from the website
-3-	Use python to clean the dataset and prepare it for the exploratory analysis
+- Trello planification of the different steps needed to complete the project
+- Export the dataset as a csv file from the website
+- Use python to clean the dataset and prepare it for the exploratory analysis
 4-	Export the clean dataset to MySQL and build a database
 5-	Build an ERD for the different tables in the database
 6-	Use MySQL to run queries for exploratory analysis purposes
