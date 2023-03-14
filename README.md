@@ -23,9 +23,7 @@ The Patient Characteristics Survey (PCS) 2022 is a dataset published by the New 
 
 ## Deliverables
 
-- csv file of the original dataset exported
 - csv file of the cleaned dataset
-- csv files of the files exported to MySQL to build a database
-- Python scripts: python file 1 (data cleaning and exploratory analysis) / Python file 2 (data preparation for MySQL)
-- MySQL script: Fuve queries used for the project
+- Python scripts: python file 1 (DataCleaning_ExploratoryAnalysis) / Python file 2 (prepare_data_mysql)
+- MySQL script: Five queries used for the project
 - A README.md file containing a detailed explanation of the process followed and deliverables
